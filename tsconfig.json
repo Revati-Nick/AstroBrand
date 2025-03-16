@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    // ...existing code...
+  },
+  "include": [
+    // ...existing code...
+  ]
+}

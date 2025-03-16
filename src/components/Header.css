@@ -1,0 +1,50 @@
+.header {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.contact-info {
+  display: flex;
+  gap: 20px;
+}
+
+.appointments-button {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.user-icon img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.nav-bar {
+  margin-top: 10px;
+}
+
+.nav-bar ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.nav-bar li {
+  cursor: pointer;
+}
